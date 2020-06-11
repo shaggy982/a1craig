@@ -15,19 +15,20 @@ h1, h2 {
 }
 h3 {
 	font-family: script;
-	color: white;
+	color: #a1fc03;
 	font-size: 20;
 	font-style: bold;
 	text-align: left;
+	nargin-left: 10px;
 }
 
 p {
-	font-family: verdana;
+	font-family: Lucida Console;
 	color: white;
 	text-align: center-left;
 	font-size: 16;
 	font-style: bold;
-	margin-left: 20px;
+	margin-left: 10px;
 }
 .intro {
 	font-family: verdana;
