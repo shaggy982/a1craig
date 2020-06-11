@@ -29,7 +29,7 @@ p {
 	font-style: bold;
 	margin-left: 20px;
 }
-#intro {
+.intro {
 	font-family: verdana;
 	color: white;
 	text-align: center;
