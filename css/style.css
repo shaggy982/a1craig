@@ -85,14 +85,8 @@ b {
   padding: 20px;
   text-align: center;
 }
-/*
-.3centercolumn {
-  float: left;
-  width: 33.33%;
-  padding-left: 20px;
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
 }
-.3rightcolumn {
-  float: left;
-  width: 33.33%;
-  padding-left: 20px;
-}*/
