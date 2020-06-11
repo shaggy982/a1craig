@@ -1,0 +1,22 @@
+body {
+	background-color: 16, 191, 0;
+}
+
+h1 {
+	font-family: script;
+	color: white;
+	font-size: 20;
+	text-align: center;
+}
+
+p {
+	font-family: verdana;
+	color: blue;
+	text-align: center-left;
+	font-size: 16;
+}
+#p1 {
+	font-family: script;
+	color: black;
+	text-align: center-left;
+}
