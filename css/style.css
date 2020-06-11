@@ -50,8 +50,12 @@ p {
 	text-align: bottom;
 }
 
- a {
+a {
 	color: lime;
+}
+
+b {
+	color: #a1fc03;
 }
 * {
   box-sizing: border-box;
