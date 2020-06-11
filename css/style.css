@@ -29,6 +29,14 @@ p {
 	font-style: bold;
 	margin-left: 20px;
 }
+#intro {
+	font-family: verdana;
+	color: white;
+	text-align: center;
+	font-size: 16;
+	font-style: bold;
+	margin-left: 20px;
+}
 
 #p1 {
 	font-family: script;
