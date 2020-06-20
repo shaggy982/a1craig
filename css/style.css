@@ -41,8 +41,8 @@ p {
 
 #p1 {
 	font-family: script;
-	color: black;
-	text-align: center-left;
+	color: white;
+	text-align: center;
 }
 
 #rel {
@@ -84,9 +84,4 @@ b {
   width: 90%;
   padding: 20px;
   text-align: center;
-}
-@media screen and (max-width: 800px) {
-  .column .leftcolumn .rightcolumn {
-    width: 100%;
-  }
 }

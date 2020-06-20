@@ -1,2 +1,31 @@
-Website Background
-https://www.wallpaperflare.com/ancient-antique-art-backdrop-background-border-broad-wallpaper-azldk
+--Background--
+"Purple Colorful Starry Website Head Background Psd", Pngtree, 2020. [Online]. 
+Available: https://pngtree.com/freebackground/purple-colorful-starry-website-head-background-psd_917277.html. 
+[Accessed: 05- Jun- 2020].
+
+--HTML & CSS Tutorials--
+"W3Schools Online Web Tutorials", W3schools.com, 2020. [Online].
+Available: https://www.w3schools.com/
+[Accessed: 05- Jun- 2020].
+
+--Job Listing--
+"Support Engineer Job in Brisbane - SEEK", SEEK, 2020. [Online].
+Available: https://www.seek.com.au/job/50068054?type=standout#searchRequestToken=2eda4d29-b39c-4179-9565-e446e2869689.
+[Accessed: 10- Jun- 2020].
+
+-- Personality Tests--
+-Myers and Briggs test-
+"Personality Type Indicator", My Personality Test, 2020. [Online].
+Available: https://my-personality-test.com/personality-type-indicator
+[Accessed: 9- Jun- 2020].
+
+-Learning Styles Test-
+"What's Your Learning Style? 20 Questions", Educationplanner.org, 2020. [Online].
+Available: http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml
+[Accessed: 14- Jun- 2020].
+
+-Big5 Test-
+"Big 5", My Personality Test, 2020. [Online].
+Available: https://my-personality-test.com/big-5.
+[Accessed: 14- Jun- 2020].
+
