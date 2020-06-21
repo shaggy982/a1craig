@@ -93,4 +93,10 @@ img {
   .column {
     width: 100%;
   }
+  .leftcolumn {
+    width: 100%;
+  }
+  .rightcolumn {
+    width: 100%;
+  }
 }
